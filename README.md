@@ -29,8 +29,6 @@ Set-ExecutionPolicy Restricted
 7. Once the script completes, the virtual environment will be deactivated.
 
 
-CMD:
-
 ## CMD:
 
 1. Open a Command Prompt (CMD) window.
@@ -47,6 +45,6 @@ powershell Set-ExecutionPolicy RemoteSigned
 
 If you continue to encounter an execution policy issue, please verify in File Explorer that the file GetFingridDatasetData.ps1 is not locked.
 
-4. ## Go to ## POWERSHELL: part 4.
+4. Go to POWERSHELL: part 4.
 
 
